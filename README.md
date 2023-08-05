@@ -1,5 +1,5 @@
-# Небольшой сборник алгоритмических задач
+# 14 algorithms
 
-## Обзор
+## About
 
-В данной проектной работе представлена реализация алгоритмов 14 задач.
+This project work presents the implementation of algorithms for 14 different tasks.
